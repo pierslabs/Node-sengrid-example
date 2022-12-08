@@ -2,8 +2,8 @@
 
 - Create your sengrid account.
 - Generate key in Sengrid.
-- Delete .example from .env.example  ==> .env  
-- Put your apikey in .env file.
+- Copy example.env  and rename to .env  
+- Config your apikey in .env file.
 
 ```bash
 npm i
