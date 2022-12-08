@@ -14,7 +14,7 @@ const msg = {
 
 sengrid.send(msg)
   .then(() => {
-    console.log('Email sent')
+    console.log('Email send')
   })
   .catch((error) => {
     console.error(error)
